@@ -23,7 +23,7 @@ export const Table = ({ data }: IdataTable) => {
                 </thead>
                 <tbody>
                     {data.map(item => (
-                        <tr>
+                        <tr key={item.idRegion}>
                             <td>{item.idRegion}</td>
                             <td>{item.nameRegion}</td>
                             <td>
