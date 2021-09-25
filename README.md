@@ -13,7 +13,7 @@
 
 No diretório de sua escolha, clone este repositório com o seguinte comando:
 ```
-git clone
+git clone https://github.com/eugenio-silva/TesteApp.git
 ```
 
 ---
@@ -24,7 +24,7 @@ git clone
 
 Entre na pasta do projeto com o seguinte comando:
 ```
-cd nomeDaPasta
+cd TesteApp
 ```
 
 Agora instale as dependências:
