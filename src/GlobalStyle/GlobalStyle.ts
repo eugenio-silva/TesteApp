@@ -14,4 +14,8 @@ export default createGlobalStyle`
     button {
         cursor: pointer;
     }
+
+    h1, h2, h3, h4, p {
+        font-family: 'Roboto', sans-serif;
+    }
 `;
