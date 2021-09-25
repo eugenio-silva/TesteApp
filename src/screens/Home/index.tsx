@@ -1,4 +1,5 @@
 // import { api } from './services/api';
+import { Header } from '../../components/Header';
 import { Container } from './styles';
 
 export const Home = () => {
@@ -16,7 +17,9 @@ export const Home = () => {
     return (
         <>
             <Container>
-                <h1>Página Home</h1>
+                {/* <h1>Página Home</h1> */}
+                <Header />
+                oioiooi
             </Container>
         </>
     );
